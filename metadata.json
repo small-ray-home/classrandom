@@ -1,0 +1,6 @@
+{
+  "name": "懸浮抽籤",
+  "description": "Android 原生懸浮抽籤工具，支援全域懸浮按鈕、不重複抽籤、流暢動畫、學生名單管理、自訂欄位 CSV 匯入匯出與抽籤歷史紀錄。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

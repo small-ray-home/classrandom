@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">懸浮抽籤</string>
+    <string name="service_notification_channel_name">懸浮抽籤服務</string>
+    <string name="service_notification_title">懸浮抽籤正在執行</string>
+    <string name="service_notification_desc">點擊懸浮按鈕即可抽籤，長按開啟設定</string>
+    <string name="service_notification_action_stop">停止懸浮抽籤</string>
+</resources>
